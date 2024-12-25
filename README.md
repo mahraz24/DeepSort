@@ -18,7 +18,7 @@ The google colab file link for yolov8 segmentation and tracking is provided belo
 
 ## Object Segmentation and Tracking (ID + Trails)  using YOLOv8 on Custom Data
 ## Google Colab File Link (A Single Click Solution)
-[`Google Colab File`](https://colab.research.google.com/drive/1cnr9Jjj5Pag5myK6Ny8v5gtHgOqf6uoF?usp=sharing)
+[`Google Colab File`](https://drive.google.com/file/d/1dx5cUYMIHUGcT48-wWdr3a1-xx1AWe53/view?usp=drive_link)
 
 ## YouTube Video Tutorial Link
 
