@@ -5,7 +5,7 @@ YOLOv8 Segmentation with DeepSORT Object Tracking(ID + Trails) </H1>
 The google colab file link for yolov8 segmentation and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation
 ,you just need to select the Run Time as GPU, and click on Run All.
 
-[`Google Colab File`](https://drive.google.com/file/d/1222egVLqG98UzMmSqrXuVKzPqZfiejUv/view?usp=drive_link)
+[`Google Colab File`](https://drive.google.com/file/d/1-tYrT-Tz8kzhRcNOmy23FVWsT4GwQ_wr/view?usp=sharing)
 
 ## YouTube Video Tutorial Link
 
